@@ -63,7 +63,8 @@ Start the server
 ```bash
   nodemon server
 ```
-
+Run 
+https://localhost:3000
 ## Screenshots
 
 **Authentication**
