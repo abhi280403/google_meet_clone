@@ -25,13 +25,15 @@ GMeet Clone is a video conferencing application inspired by Google Meet. It allo
 
 ## Prerequisites
 - Install node.js in your machine.
-## Tech Stack
+## Technologies used
 
-**Client:** Html,Css
+**Front-end:** Html,Css,Javascript.
 
-**Server:** Node, Express,Socket.io,WebRTC,Passport,peer.
+**Back-end:** Node.js, Express.js.
 
+**Real-time-Communication:** WebRTC,Socket.io,peerjs.
 
+**Authentication:** passport.
 ## Run Locally
 
 Clone the project
