@@ -46,7 +46,7 @@ or download the zip file.
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd google_meet_clone
 ```
 
 Install dependencies
